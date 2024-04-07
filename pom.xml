@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>team8</finalName>
+		<finalName>pipelineteam8</finalName>
 		
 		<plugins>
 			<plugin>
